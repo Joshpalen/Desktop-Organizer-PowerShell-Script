@@ -131,7 +131,3 @@ Add or remove extensions as needed (use lower-case, include the dot).
 - App shortcuts (`.lnk` → `.exe`) stay on the Desktop.
 - No deletions; everything is moved into `Loose Files` or `Loose Media`.
 
----
-
-If you want, I can add an optional `-Quiet` switch to suppress the “Press Enter to close” pause for hotkey usage.
-
