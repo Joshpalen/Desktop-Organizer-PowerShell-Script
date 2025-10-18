@@ -14,7 +14,7 @@ Keep your Windows desktop tidy with a single hotkey. This script groups loose fi
 
 Script: `Organize-Desktop.ps1`
 
-## How It Works (at a glance)
+## How It Works
 
 - Determines your Desktop path and ensures the two target folders exist.
 - For each file on the Desktop:
@@ -130,4 +130,3 @@ Add or remove extensions as needed (use lower-case, include the dot).
 - Only files and folders on your Desktop are moved.
 - App shortcuts (`.lnk` → `.exe`) stay on the Desktop.
 - No deletions; everything is moved into `Loose Files` or `Loose Media`.
-
